@@ -1,6 +1,6 @@
 # Android-API-integration
 
-Esta app demuestra el uso de Retrofit para hacer una peticion REST a un servicio web.
+Peticion REST a un servicio web utilizando Retrofit.
 Se utiliza Gson para manipular la des-serializacion de la respuesta JSON a objetos Kotlin, y Coil para cargar las imagenes por URL.
 
 Para iniciar el proyecto:
